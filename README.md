@@ -23,7 +23,7 @@ About the Java project for the interview.
 ## 目录说明
 
 根目录
-├─.settings
+├─.settings <br>
 ├─src
 │  └─main
 │      ├─java
